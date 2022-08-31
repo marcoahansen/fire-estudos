@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.App{
+  width: 600px;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.container{
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+}
